@@ -4,3 +4,10 @@
 
 ## Curso
 - Curso Técnico em Análise e Desenvolvimento de Sistemas
+
+## Cronograma 
+
+- [x]  Aula 01 - Revisão JSP (22/01/2024)
+    - Revisão de Conceitos / Exercícios de Fixação 
+- [x]  Aula 02 - Revisão JSP (23/01/2024)
+    - Revisão de Conceitos / Exercícios de Fixação 
