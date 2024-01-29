@@ -10,4 +10,8 @@
 - [x]  Aula 01 - Revisão JSP (22/01/2024)
     - Revisão de Conceitos / Exercícios de Fixação 
 - [x]  Aula 02 - Revisão JSP (23/01/2024)
-    - Revisão de Conceitos / Exercícios de Fixação 
+    - Revisão de Conceitos / Exercícios de Fixação
+- [x]  Aula 03 - JSP (29/01/2024)
+    - Integração JSP + CSS + JS
+    - Iterações e ArrayList
+    - Exercícios
