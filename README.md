@@ -15,3 +15,4 @@
     - Integração JSP + CSS + JS
     - Iterações e ArrayList
     - Exercícios
+- [x]  Aula 04 - JSP (30/01/2024)
