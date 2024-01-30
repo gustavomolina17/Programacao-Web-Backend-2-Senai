@@ -17,5 +17,5 @@
     - Exercícios
 - [x]  Aula 04 - JSP (30/01/2024)
     - Exercícios
-    - Mini Projeto em Grupos
+    - Mini Projeto em Grupos - JSP + HTML + CSS
 
