@@ -5,6 +5,9 @@
 ## Curso
 - Curso Técnico em Análise e Desenvolvimento de Sistemas
 
+## Carga horária
+- 60 horas
+
 ## Cronograma 
 
 - [x]  Aula 01 - Revisão JSP (22/01/2024)
@@ -18,4 +21,13 @@
 - [x]  Aula 04 - JSP (30/01/2024)
     - Exercícios
     - Mini Projeto em Grupos - JSP + HTML + CSS
+- [x]  Aula 05 -  (05/02/2024)   
+- [x]  Aula 06 -  (06/02/2024)
+- [x]  Aula 07 - JPA + Hibernate + Maven (19/02/2024)
+    - Conceitos iniciais
+    - Exercícios de Fixação
+- [x]  Aula 08 - JPA + Hibernate + Maven (20/02/2024)
+    - Mini Projeto
+    - Exercícios de fixação
+    
 
