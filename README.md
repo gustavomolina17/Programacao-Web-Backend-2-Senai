@@ -21,7 +21,9 @@
 - [x]  Aula 04 - JSP (30/01/2024)
     - Exercícios
     - Mini Projeto em Grupos - JSP + HTML + CSS
-- [x]  Aula 05 -  (05/02/2024)   
+- [x]  Aula 05 - Servlets (05/02/2024)
+    - Introdução aos Servlets
+    - Apresentaçao dos Projetos   
 - [x]  Aula 06 -  (06/02/2024)
 - [x]  Aula 07 - JPA + Hibernate + Maven (19/02/2024)
     - Conceitos iniciais
