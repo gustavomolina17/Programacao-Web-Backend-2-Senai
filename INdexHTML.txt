@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Cadastro de Alunos do Senai</title>
+</head>
+
+<body>
+	<h1>Welcome to the Jungle :) </h1>
+	<form method="post" action="/Cadastro/CadastroAlunoServlet">
+		<p>Nome do Aluno:<input type="text" name="nome" size="50"></p>
+		<p>Email:<input type="text" name="email" size="40"></p>
+		<p><input type="submit" value="Submit"><input type="reset" value="Reset"></p>
+	</form>
+</body>
+
+</html>

@@ -1,0 +1,38 @@
+import java.io.IOException;
+import java.io.PrintWriter;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.util.*;
+
+@WebServlet("/CadastroAlunoServlet")
+public class CadastroAlunoServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+  
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		// pegar os parâmetros da requisição
+		String nome = request.getParameter("nome");
+		String email = request.getParameter("email");
+		
+		GregorianCalendar calendario = new GregorianCalendar();
+		String mensagem = calendario.get(Calendar.AM_PM) == Calendar.AM ? "Bom dia":"Boa tarde";
+		
+		response.setContentType("text/html");
+		
+		PrintWriter out = response.getWriter();
+		out.println("<html>");
+		out.println("<body>");
+		out.println("<p>"+ mensagem +","+nome+"</p>");
+		out.println("<p>Seu email é:" + email+"</p>");
+		out.println("<p>Você está no 2º ano do curso de ADS no Senai</p>");
+		out.println("</body>");
+		out.println("</html>");
+		
+		out.close();	
+	}
+
+}
